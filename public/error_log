@@ -1,0 +1,51 @@
+[22-Nov-2017 15:46:50 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:46:58 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:48:29 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:48:30 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:49:11 UTC] PHP Fatal error:  Call to a member function bind() on null in /home/pelajari/public_html/skripsi/index.php on line 12
+[22-Nov-2017 15:49:12 UTC] PHP Fatal error:  Call to a member function bind() on null in /home/pelajari/public_html/skripsi/index.php on line 12
+[22-Nov-2017 15:50:25 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:50:26 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:50:26 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:50:27 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:51:12 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:51:12 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:51:13 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:51:13 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:51:23 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:51:24 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:51:24 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:51:24 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:52:00 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:52:18 UTC] PHP Fatal error:  Call to undefined function file_exist() in /home/pelajari/public_html/skripsi/index.php on line 26
+[22-Nov-2017 15:52:19 UTC] PHP Fatal error:  Call to undefined function file_exist() in /home/pelajari/public_html/skripsi/index.php on line 26
+[22-Nov-2017 15:52:27 UTC] PHP Fatal error:  Call to undefined function file_exist() in /home/pelajari/public_html/skripsi/index.php on line 26
+[22-Nov-2017 15:52:27 UTC] PHP Fatal error:  Call to undefined function file_exist() in /home/pelajari/public_html/skripsi/index.php on line 26
+[22-Nov-2017 15:52:27 UTC] PHP Fatal error:  Call to undefined function file_exist() in /home/pelajari/public_html/skripsi/index.php on line 26
+[22-Nov-2017 15:52:59 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:53:08 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:54:18 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/pelajari/public_html/skripsi/index.php on line 27
+[22-Nov-2017 15:54:19 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/pelajari/public_html/skripsi/index.php on line 27
+[22-Nov-2017 15:55:02 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:55:03 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:55:03 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:55:40 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:55:41 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:55:46 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:55:47 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:57:22 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 15:58:00 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/pelajari/public_html/skripsi/index.php on line 28
+[22-Nov-2017 15:58:10 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/pelajari/public_html/skripsi/index.php on line 28
+[22-Nov-2017 15:58:35 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/pelajari/public_html/skripsi/index.php on line 28
+[22-Nov-2017 15:58:36 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/pelajari/public_html/skripsi/index.php on line 28
+[22-Nov-2017 16:00:01 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/pelajari/public_html/skripsi/index.php on line 28
+[22-Nov-2017 16:00:08 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 16:00:19 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 16:00:36 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 16:00:37 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 16:00:37 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 16:01:24 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 16:01:25 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[22-Nov-2017 16:06:52 UTC] PHP Warning:  require(/home/pelajari/public_html/umat_bertanya/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/pelajari/public_html/umat_bertanya/vendor/composer/autoload_real.php on line 66
+[22-Nov-2017 16:06:52 UTC] PHP Fatal error:  require(): Failed opening required '/home/pelajari/public_html/umat_bertanya/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/pelajari/public_html/umat_bertanya/vendor/composer/autoload_real.php on line 66
+[22-Nov-2017 16:07:24 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/pelajari/public_html/umat_bertanya/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
